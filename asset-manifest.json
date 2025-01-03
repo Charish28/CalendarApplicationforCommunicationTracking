@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CalendarApplicationforCommunicationTracking/static/css/main.97949004.css",
+    "main.js": "/CalendarApplicationforCommunicationTracking/static/js/main.9c56c6c0.js",
+    "static/js/239.67dd5ea8.chunk.js": "/CalendarApplicationforCommunicationTracking/static/js/239.67dd5ea8.chunk.js",
+    "static/js/213.7696972e.chunk.js": "/CalendarApplicationforCommunicationTracking/static/js/213.7696972e.chunk.js",
+    "static/js/455.9c142af9.chunk.js": "/CalendarApplicationforCommunicationTracking/static/js/455.9c142af9.chunk.js",
+    "static/js/488.9ade48c6.chunk.js": "/CalendarApplicationforCommunicationTracking/static/js/488.9ade48c6.chunk.js",
+    "index.html": "/CalendarApplicationforCommunicationTracking/index.html",
+    "main.97949004.css.map": "/CalendarApplicationforCommunicationTracking/static/css/main.97949004.css.map",
+    "main.9c56c6c0.js.map": "/CalendarApplicationforCommunicationTracking/static/js/main.9c56c6c0.js.map",
+    "239.67dd5ea8.chunk.js.map": "/CalendarApplicationforCommunicationTracking/static/js/239.67dd5ea8.chunk.js.map",
+    "213.7696972e.chunk.js.map": "/CalendarApplicationforCommunicationTracking/static/js/213.7696972e.chunk.js.map",
+    "455.9c142af9.chunk.js.map": "/CalendarApplicationforCommunicationTracking/static/js/455.9c142af9.chunk.js.map",
+    "488.9ade48c6.chunk.js.map": "/CalendarApplicationforCommunicationTracking/static/js/488.9ade48c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97949004.css",
+    "static/js/main.9c56c6c0.js"
+  ]
+}
