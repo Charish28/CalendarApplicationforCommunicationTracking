@@ -9,6 +9,7 @@ import CalendarView from './components/Users/CalendarView';
 import NotificationPanel from './components/Users/NotificationPanel';  // Imported NotificationPanel
 import ReportingPage from './components/Reporting/ReportingPage';
 import CommunicationModel from './components/Users/CommunicationModel';
+import { Link } from 'react-router-dom';
 
 // Toast Notifications
 import { ToastContainer } from 'react-toastify';
@@ -44,7 +45,7 @@ const App = () => {
         <nav className="bg-gray-800 p-4 text-white">
           <div className="container mx-auto">
             <ul className="flex justify-around">
-              <li><a href="/admin/companies">Companies</a></li>
+              <li><Link to="/admin/companies">Companies</Link></li>
               <li><a href="/admin/communication-methods">Communication Methods</a></li>
               <li><a href="/user/dashboard">Dashboard</a></li>
               <li><a href="/user/notifications">Notifications</a></li>
